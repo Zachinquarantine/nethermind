@@ -27,10 +27,6 @@ namespace Nethermind.Network.P2P
         /// </summary>
         public const string Eth = "eth";
         /// <summary>
-        /// Whisper
-        /// </summary>
-        public const string Shh = "shh";
-        /// <summary>
         /// Swarm
         /// </summary>
         public const string Bzz = "bzz";
