@@ -41,13 +41,4 @@
   <ItemGroup>
     <None Remove="Swarm\**" />
   </ItemGroup>
-  <ItemGroup>
-    <Compile Remove="Whisper\**" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Remove="Whisper\**" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Remove="Whisper\**" />
-  </ItemGroup>
 </Project>
